@@ -2,6 +2,8 @@
 
 Alfonso da Silva: alfonso.da.silva@upc.edu
 
+Link a aquesta pàgina: https://bit.ly/foma2122
+
 ## Funcions bàsiques
 
 _TODO_
