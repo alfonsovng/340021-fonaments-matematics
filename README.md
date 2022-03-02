@@ -20,7 +20,7 @@ _TODO_
 
 ### Exercicis
 
-* Deures 01/03/2022: *https://www.geogebra.org/classic/jzctj3qs
+* Deures 01/03/2022: https://www.geogebra.org/classic/jzctj3qs
 
 Fórmula en geogebra de l'exercici 1.d:
 
