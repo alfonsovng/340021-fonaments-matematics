@@ -36,3 +36,10 @@ Recursos externs:
 Recursos propis:
 
 * Geogebra dels exemples de continuïtat: https://www.geogebra.org/classic/rsk73zs4
+
+## Derivabilitat
+
+Recursos externs:
+
+* B.22. La regla de L'Hopital. 2. Demostración: https://www.youtube.com/watch?v=kwK1uEpmsE8
+* Regla de l'Hopital - Demostración con EJEMPLOS prácticos: https://www.youtube.com/watch?v=whze02fAyco
