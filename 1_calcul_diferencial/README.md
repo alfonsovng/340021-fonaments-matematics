@@ -45,7 +45,9 @@ Recursos externs:
 * Regla de l'Hopital - Demostración con EJEMPLOS prácticos: https://www.youtube.com/watch?v=whze02fAyco
 * DERIVADAS - Clase Completa: Explicación Desde Cero | El Traductor: https://www.youtube.com/watch?v=_6-zwdrqD3U
 * [Taula de derivades comunes](./1_4_derivabilitat/taula_de_derivades.png)
+* Definición formal de derivada en polinomio de segundo grado: https://youtu.be/fm_VEqwBMIA
 
 Recursos propis:
 
 * Geogebra dels exemples de l'Hopital: https://www.geogebra.org/classic/jmfpua9y
+* Geogebra de l'interpretació geomètrica de la derivada: https://www.geogebra.org/classic/dhgnmasp
