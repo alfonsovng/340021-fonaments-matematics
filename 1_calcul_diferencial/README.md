@@ -26,6 +26,9 @@ Recursos propis:
 * [Resolució exercici 4.i](./1_2_dominis_i_asimptotes/4i.jpg)
 * [Resolució exercici 5.f](./1_2_dominis_i_asimptotes/5f.jpg)
 * Geogebra dels exercicis 1.b, 4.h, 4.i i 5.f: https://www.geogebra.org/classic/kxafdrgs
+* Geogebra dels dubtes del test 2: https://www.geogebra.org/classic/urkazd73
+* Funció f del geogebra anterior: `Si(x<10, tan^(-1)(((1)/(x-10))), Si(x>10, ℯ^(((1)/(x-10)))))`
+* Funció g del geogebra anterior: `Si(x≤-5, 13 x-65, Si(-5<x<5, ((1)/(x^(2)-25)), Si(x>5, ((1)/(x-5)))))`
 
 ## Continuïtat
 
