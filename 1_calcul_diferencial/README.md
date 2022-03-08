@@ -39,6 +39,7 @@ Recursos externs:
 Recursos propis:
 
 * Geogebra dels exemples de continuïtat: https://www.geogebra.org/classic/rsk73zs4
+* Geogebra dels exercicis 3c, 5b, 5c i 5d: https://www.geogebra.org/classic/cnr38sfz
 
 ## Derivabilitat
 
