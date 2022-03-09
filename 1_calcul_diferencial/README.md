@@ -40,6 +40,12 @@ Recursos propis:
 
 * Geogebra dels exemples de continuïtat: https://www.geogebra.org/classic/rsk73zs4
 * Geogebra dels exercicis 3c, 5b, 5c i 5d: https://www.geogebra.org/classic/cnr38sfz
+* [Resolució exercici 3.b](./1_3_continuitat/3b.jpg)
+* [Resolució exercici 3.c](./1_3_continuitat/3c.jpg)
+* [Resolució exercici 5.b](./1_3_continuitat/5b.jpg)
+* [Resolució exercici 5.c](./1_3_continuitat/5c.jpg)
+* [Resolució exercici 5.d](./1_3_continuitat/5d.jpg)
+* Youtube amb el resum de la classe 08/03/2022 sobre continuïtat: https://youtu.be/na2AdpD42cw
 
 ## Derivabilitat
 
