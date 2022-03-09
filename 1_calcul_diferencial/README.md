@@ -51,6 +51,7 @@ Recursos propis:
 
 Recursos externs:
 
+* Youtube amb el resum de la classe 09/03/2022 sobre hopital: https://youtu.be/onkK7p1EVkk
 * B.22. La regla de L'Hopital. 2. Demostración: https://www.youtube.com/watch?v=kwK1uEpmsE8
 * Regla de l'Hopital - Demostración con EJEMPLOS prácticos: https://www.youtube.com/watch?v=whze02fAyco
 * DERIVADAS - Clase Completa: Explicación Desde Cero | El Traductor: https://www.youtube.com/watch?v=_6-zwdrqD3U
@@ -60,4 +61,5 @@ Recursos externs:
 Recursos propis:
 
 * Geogebra dels exemples de l'Hopital: https://www.geogebra.org/classic/jmfpua9y
+* [Resolució exercici 3.g](./1_4_derivabilitat/3g.jpg)
 * Geogebra de l'interpretació geomètrica de la derivada: https://www.geogebra.org/classic/dhgnmasp
