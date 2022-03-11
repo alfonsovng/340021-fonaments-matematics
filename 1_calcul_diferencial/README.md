@@ -62,4 +62,5 @@ Recursos propis:
 
 * Geogebra dels exemples de l'Hopital: https://www.geogebra.org/classic/jmfpua9y
 * [Resolució exercici 3.g](./1_4_derivabilitat/3g.jpg)
+* [Resolució exercici 3.h](./1_4_derivabilitat/3h.jpg)
 * Geogebra de l'interpretació geomètrica de la derivada: https://www.geogebra.org/classic/dhgnmasp
