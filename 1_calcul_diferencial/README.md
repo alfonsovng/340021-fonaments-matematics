@@ -39,7 +39,7 @@ Recursos externs:
 Recursos propis:
 
 * Geogebra dels exemples de continuïtat: https://www.geogebra.org/classic/rsk73zs4
-* Geogebra dels exercicis 3c, 5b, 5c i 5d: https://www.geogebra.org/classic/cnr38sfz
+* Geogebra dels exercicis 3c, 5b, 5c, 5d i 6c: https://www.geogebra.org/classic/abe5vr23
 * [Resolució exercici 3.b](./1_3_continuitat/3b.jpg)
 * [Resolució exercici 3.c](./1_3_continuitat/3c.jpg)
 * [Resolució exercici 5.b](./1_3_continuitat/5b.jpg)
