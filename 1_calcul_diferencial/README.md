@@ -64,3 +64,6 @@ Recursos propis:
 * [Resolució exercici 3.g](./1_4_derivabilitat/3g.jpg)
 * [Resolució exercici 3.h](./1_4_derivabilitat/3h.jpg)
 * Geogebra de l'interpretació geomètrica de la derivada: https://www.geogebra.org/classic/dhgnmasp
+* Geogebra mostrant el creixement i decreixement amb la derivada: https://www.geogebra.org/classic/mwk4jqfz
+* Geogebra dels exercicis 4, 5 i 6: https://www.geogebra.org/classic/chtuuqdd
+* Como calcular velocidad media, velocidad instantánea: https://www.youtube.com/watch?v=oFkE4AkVPlE
