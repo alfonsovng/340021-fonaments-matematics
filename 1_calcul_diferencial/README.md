@@ -67,3 +67,6 @@ Recursos propis:
 * Geogebra mostrant el creixement i decreixement amb la derivada: https://www.geogebra.org/classic/mwk4jqfz
 * Geogebra dels exercicis 4, 5 i 6: https://www.geogebra.org/classic/chtuuqdd
 * Como calcular velocidad media, velocidad instantánea: https://www.youtube.com/watch?v=oFkE4AkVPlE
+* Geogebra dels exercicis 7a, 7e i 7f: https://www.geogebra.org/classic/r4fhf8rw
+* Geogebra dels exercicis 8c, 8d i 8f: https://www.geogebra.org/classic/vfs3hrtr
+* Geogebra dels exercicis 9a, 9c i 9d: https://www.geogebra.org/classic/rkb2vsjw
