@@ -58,6 +58,12 @@ Recursos externs:
 * [Taula de derivades comunes](./1_4_derivabilitat/taula_de_derivades.png)
 * Definición formal de derivada en polinomio de segundo grado: https://youtu.be/fm_VEqwBMIA
 
+Material UPC:
+
+* 1, 2 & 3: [FONAMENTS MATEMÀTICS (Examen 1r quadrimestre): Activitat A2 : Càlcul diferencial](https://upcommons.upc.edu/bitstream/handle/2117/361754/A2_FOMA-21-22Q1_amb_sol.pdf?sequence=1)
+* 1.A4 => [FONAMENTS MATEMÀTICS (Examen 1r quadrimestre): Activitats A3 i A4](https://upcommons.upc.edu/bitstream/handle/2117/361756/A3iA4ambsolucio.pdf?sequence=1)
+* [Derivades i regles de derivació](https://atenea.upc.edu/pluginfile.php/4580387/mod_folder/content/0/taula%20%20propietats.pdf?forcedownload=1)
+
 Recursos propis:
 
 * Geogebra dels exemples de l'Hopital: https://www.geogebra.org/classic/jmfpua9y
@@ -70,3 +76,4 @@ Recursos propis:
 * Geogebra dels exercicis 7a, 7e i 7f: https://www.geogebra.org/classic/r4fhf8rw
 * Geogebra dels exercicis 8c, 8d i 8f: https://www.geogebra.org/classic/vfs3hrtr
 * Geogebra dels exercicis 9a, 9c i 9d: https://www.geogebra.org/classic/rkb2vsjw
+* Geogebra dels exercicis 1a, 1c, 1f, 1g i 1h: https://www.geogebra.org/classic/vxsq9cd9
