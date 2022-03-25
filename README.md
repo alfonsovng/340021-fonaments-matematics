@@ -8,6 +8,6 @@ Curs Atenea: https://atenea.upc.edu/course/view.php?id=75749
 
 [1\. Càlcul diferencial](./1_calcul_diferencial/README.md)
 
-2\. Càlcul numèric
+[2\. Càlcul numèric](./2_calcul_numeric/README.md)
 
 3\. Àlgebra lineal
