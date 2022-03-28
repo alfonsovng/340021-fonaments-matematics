@@ -25,3 +25,4 @@ Recursos externs:
 Recursos propis:
 
 * Geogebra d'exemple d'aproximació amb Taylor: https://www.geogebra.org/classic/gq7rnqyu
+* Geogebra dels exercicis 1 i 2: https://www.geogebra.org/classic/vwwjeshw
