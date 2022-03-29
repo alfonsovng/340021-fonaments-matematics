@@ -26,3 +26,5 @@ Recursos propis:
 
 * Geogebra d'exemple d'aproximació amb Taylor: https://www.geogebra.org/classic/gq7rnqyu
 * Geogebra dels exercicis 1 i 2: https://www.geogebra.org/classic/vwwjeshw
+* Geogebra de l'exercici 4: https://www.geogebra.org/classic/tj3qradu
+* Geogebra de l'exercici 5: https://www.geogebra.org/classic/pjkymgnu
