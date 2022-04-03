@@ -11,3 +11,7 @@ Curs Atenea: https://atenea.upc.edu/course/view.php?id=75749
 [2\. Càlcul numèric](./2_calcul_numeric/README.md)
 
 3\. Àlgebra lineal
+
+## Exercicis a classe
+
+* Geogebra del exercicis de derivabilitat/creixement: https://www.geogebra.org/classic/nqcna3cb
