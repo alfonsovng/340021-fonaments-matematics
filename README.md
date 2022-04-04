@@ -15,3 +15,4 @@ Curs Atenea: https://atenea.upc.edu/course/view.php?id=75749
 ## Exercicis a classe
 
 * Geogebra del exercicis de derivabilitat/creixement: https://www.geogebra.org/classic/nqcna3cb
+* [Exemple de prova que veurem a classe - Activitat A2 de FOMA 31/10/2019](https://upcommons.upc.edu/bitstream/2117/173125/1/FOMA%20A2%20parcial%20oct%202019%20-%20amb%20solucio.pdf)
