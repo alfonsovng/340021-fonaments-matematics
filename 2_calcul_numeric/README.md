@@ -29,4 +29,4 @@ Recursos propis:
 * Geogebra de l'exercici 4: https://www.geogebra.org/classic/tj3qradu
 * Geogebra de l'exercici 5: https://www.geogebra.org/classic/pjkymgnu
 * Resolució de l'exercici 5: https://youtu.be/FudVYBNXdHs
-
+* [Explicació exercici cota teòrica del test](./2_1_errors/Explicacio_exercici_cota_teorica_del_test.pdf)
