@@ -1,4 +1,4 @@
-# 1. Càlcul Numèric
+# 2. Càlcul Numèric
 
 ## Errors
 
@@ -30,3 +30,15 @@ Recursos propis:
 * Geogebra de l'exercici 5: https://www.geogebra.org/classic/pjkymgnu
 * Resolució de l'exercici 5: https://youtu.be/FudVYBNXdHs
 * [Explicació exercici cota teòrica del test](./2_1_errors/Explicacio_exercici_cota_teorica_del_test.pdf)
+
+## Zeros de funcions
+
+Material UPC:
+
+* [Presentació sobre Zeros de Funcions](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%203%20Apunts%20zeros.pdf?forcedownload=1)
+* [Mètode de la bisecció amb matlab](https://atenea.upc.edu/pluginfile.php/4580397/mod_page/content/7/Zeros_Biseccio.html)
+* [Mètodes iteratius amb matlab](https://atenea.upc.edu/pluginfile.php/4580397/mod_page/content/7/Zeros_Newton.html)
+
+Recursos propis:
+
+* Geogebra d'exemple de bisecció: https://www.geogebra.org/classic/zkm7bg7b
