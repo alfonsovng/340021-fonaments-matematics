@@ -42,3 +42,10 @@ Material UPC:
 Recursos propis:
 
 * Geogebra d'exemple de bisecció: https://www.geogebra.org/classic/zkm7bg7b
+
+## Integració numèrica
+
+Material UPC:
+
+* [Presentació sobre Integració Numèrica](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%204%20Apunts%20%20integraci%C3%B3.pdf?forcedownload=1)
+* [Mètode dels trapecis i Mètode de Simpson](https://atenea.upc.edu/pluginfile.php/4580397/mod_page/content/7/Integracio_numeric_nou.html)
