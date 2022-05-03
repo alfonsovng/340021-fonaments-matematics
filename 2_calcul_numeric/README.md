@@ -42,6 +42,7 @@ Material UPC:
 Recursos propis:
 
 * Geogebra d'exemple de bisecció: https://www.geogebra.org/classic/zkm7bg7b
+* [Com derivar una funció amb matlab](https://youtu.be/xrtgwyzgi_U)
 
 ## Integració numèrica
 
