@@ -42,7 +42,18 @@ Material UPC:
 Recursos propis:
 
 * Geogebra d'exemple de bisecció: https://www.geogebra.org/classic/zkm7bg7b
-* [Com derivar una funció amb matlab](https://youtu.be/xrtgwyzgi_U)
+* [Com derivar una funció amb matlab](https://youtu.be/k6j3ssb_KSg)
+* Geogebra d'exemple de Newton-Raphson que no convergeix: https://www.geogebra.org/classic/jzs4dgy7
+
+```matlab
+% zero amb Newton-Raphson
+format long g;
+f=@(x) 1/(1+x^2) - 1/2;
+df=@(x) -(2*x)/(x^2 + 1)^2;
+x0=2; % convegergeix a -1, no a 1!!!
+n=60;
+newton(f,df,x0,n)
+```
 
 ## Integració numèrica
 
@@ -53,4 +64,5 @@ Material UPC:
 
 Recursos propis:
 
-* Geogebra d'exemple de trapecis i Simpson: https://www.geogebra.org/classic/ggv9b3cm
+* Geogebra d'exemple de trapecis: https://www.geogebra.org/classic/vptqdx9b
+* Geogebra d'exemple de Simpson: https://www.geogebra.org/classic/zt8wzqm6
