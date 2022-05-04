@@ -66,3 +66,4 @@ Recursos propis:
 
 * Geogebra d'exemple de trapecis: https://www.geogebra.org/classic/vptqdx9b
 * Geogebra d'exemple de Simpson: https://www.geogebra.org/classic/zt8wzqm6
+* Resolució de l'exemple anterior: [punts interseccio](./2_2_integracio_numerica/exercici_a_classe_PUNTS_INTERSECCIO.m) i [area entre les dues corbes](./2_2_integracio_numerica/exercici_a_classe_AREA_ENTRE_LES_DUES_CORBES.m)
