@@ -67,3 +67,13 @@ Recursos propis:
 * Geogebra d'exemple de trapecis: https://www.geogebra.org/classic/vptqdx9b
 * Geogebra d'exemple de Simpson: https://www.geogebra.org/classic/zt8wzqm6
 * Resolució de l'exemple anterior: [punts interseccio](./2_2_integracio_numerica/exercici_a_classe_PUNTS_INTERSECCIO.m) i [area entre les dues corbes](./2_2_integracio_numerica/exercici_a_classe_AREA_ENTRE_LES_DUES_CORBES.m)
+
+## Primitives
+
+Material UPC:
+
+* [Contingut 2. Càlcul numèric i càlcul de primitives - APARTAT 4 -](https://atenea.upc.edu/pluginfile.php/4580390/mod_resource/content/4/Problemes_Contingut_2_FOMA.pdf)
+
+Recursos propis:
+
+* Geobrebra de l'interpretació de l'integral definida: https://www.geogebra.org/classic/paxqtgyj
