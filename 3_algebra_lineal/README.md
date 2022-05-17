@@ -15,6 +15,10 @@ Recursos externs:
 
 * [Sistema de ecuación lineal en MATLAB](https://www.delftstack.com/es/howto/matlab/system-of-linear-equation-in-matlab/)
 
+Recursos propis:
+
+* [Operacions matricials amb matlab](./exemple_matrius.m)
+
 ## Espais vectorials
 
 Material UPC:
