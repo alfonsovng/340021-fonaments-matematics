@@ -17,7 +17,12 @@ Recursos externs:
 
 Recursos propis:
 
-* [Operacions matricials amb matlab](./exemple_matrius.m)
+* [MATLAB: operacions amb matrius](./matrius.m)
+* [MATLAB: sistemes d'equacions 1](./sistemes_equacions_1.m)
+* [MATLAB: sistemes d'equacions 2](./sistemes_equacions_2.m)
+* [MATLAB: sistemes d'equacions 3](./sistemes_equacions_3.m)
+* [MATLAB: sistemes d'equacions 4](./sistemes_equacions_4.m)
+* [MATLAB: sistemes d'equacions 5](./sistemes_equacions_5.m)
 
 ## Espais vectorials
 
