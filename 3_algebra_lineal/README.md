@@ -30,6 +30,10 @@ Material UPC:
 
 * [Presentació Espais Vectorials](https://atenea.upc.edu/pluginfile.php/4580403/mod_folder/content/0/%C3%80lgebra%20lineal.%20Espais%20vectorials.pdf?forcedownload=1)
 
+Recursos propis:
+
+* Vectora amb geogebra: https://www.geogebra.org/classic/q9vqyadt
+
 ## Aplicacions lineals
 
 Material UPC:
