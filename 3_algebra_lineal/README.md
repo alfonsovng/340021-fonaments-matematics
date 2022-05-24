@@ -32,7 +32,9 @@ Material UPC:
 
 Recursos propis:
 
-* Vectora amb geogebra: https://www.geogebra.org/classic/q9vqyadt
+* Vectors amb geogebra: https://www.geogebra.org/classic/q9vqyadt
+* [Determinant 2x2](./determinant_2x2.jpg)
+* [Determinant 3x3](./determinant_3x3.jpg)
 
 ## Aplicacions lineals
 
