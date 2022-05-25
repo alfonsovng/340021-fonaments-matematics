@@ -35,6 +35,7 @@ Recursos propis:
 * Vectors amb geogebra: https://www.geogebra.org/classic/q9vqyadt
 * [Determinant 2x2](./determinant_2x2.jpg)
 * [Determinant 3x3](./determinant_3x3.jpg)
+* [MATLAB: base d'un sistema homogeni](./espais_vectorials_1.m)
 
 ## Aplicacions lineals
 
