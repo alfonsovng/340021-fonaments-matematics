@@ -39,6 +39,7 @@ Recursos propis:
 * [MATLAB: exercici 5](./vectors_exercici_5.m)
 * [MATLAB: exercicis 7 i 8](./vectors_exercicis_7_i_8.m)
 * [MATLAB: base d'un sistema homogeni](./vectors_exemple_sistema_homogeni.m)
+* [Resolució test 9 d'espais vectorials](https://youtu.be/yXxxHPgf4a0)
 
 ## Aplicacions lineals
 
