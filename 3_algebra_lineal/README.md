@@ -1,7 +1,7 @@
 # 3. Àlgebra lineal
 
-[Llista de problemes](https://atenea.upc.edu/mod/resource/view.php?id=3370912)
-[Resum del tema 3 "Àlgebra Lineal" de FOMA](https://youtu.be/LbjOXXcMxbs)
+* [Llista de problemes](https://atenea.upc.edu/mod/resource/view.php?id=3370912)
+* [Resum del tema 3 "Àlgebra Lineal" de FOMA](https://youtu.be/LbjOXXcMxbs)
 
 ## Sistemes lineals
 
