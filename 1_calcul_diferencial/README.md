@@ -9,6 +9,7 @@ Càlcul diferencial d’una variable](https://atenea.upc.edu/pluginfile.php/4951
 
 Material vist a classe:
 
+* Geogebra exercici 8: [https://www.geogebra.org/classic/fq6ntptp](https://www.geogebra.org/classic/fq6ntptp)
 * Geogebra dels exemples de la funció de Heaviside: [https://www.geogebra.org/classic/qtwx92uc](https://www.geogebra.org/classic/qtwx92uc)
 
 Material complementari:
