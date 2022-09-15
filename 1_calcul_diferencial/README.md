@@ -13,6 +13,7 @@ Material vist a classe:
 * Geogebra exercici 1.2.9: [https://www.geogebra.org/classic/dpqtv5j6](https://www.geogebra.org/classic/dpqtv5j6)
 * Geogebra exercici 1.2.10: [https://www.geogebra.org/classic/zaqr9u45](https://www.geogebra.org/classic/zaqr9u45)
 * Exemples funció a troços i heavisite: [https://www.geogebra.org/classic/gbctjcpw](https://www.geogebra.org/classic/gbctjcpw)
+* Exemples de heaviside vist a classe: [https://www.geogebra.org/classic/vbvmuxgt](https://www.geogebra.org/classic/vbvmuxgt)
 * Geogebra dels exemples de la funció de Heaviside: [https://www.geogebra.org/classic/qtwx92uc](https://www.geogebra.org/classic/qtwx92uc)
 
 Material complementari:
