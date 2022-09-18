@@ -1,8 +1,10 @@
 # Recursos del curs 340021 - FONAMENTS MATEMÀTICS
 
-Alfonso da Silva: [alfonso.da.silva@upc.edu](mailto:alfonso.da.silva@upc.edu)
+### Alfonso da Silva: [alfonso.da.silva@upc.edu](mailto:alfonso.da.silva@upc.edu)
 
-[Curs Atenea*](https://atenea.upc.edu/course/view.php?id=75749)
+### [Curs Atenea: 340021 - FONAMENTS MATEMÀTICS (Curs Total)*](https://atenea.upc.edu/course/view.php?id=75749)
+
+*\* cal autènticar-se per accedir a aquest recurs*
 
 ## Contingut
 
