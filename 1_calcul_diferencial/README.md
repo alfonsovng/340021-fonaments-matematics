@@ -2,8 +2,7 @@
 
 Teoria i exercicis:
 
-* [Contingut 1.
-Càlcul diferencial d’una variable](https://atenea.upc.edu/pluginfile.php/4951719/mod_resource/content/1/Problemes_Contingut_1_FOMA.pdf)
+* [Contingut 1. Càlcul diferencial d’una variable*](https://atenea.upc.edu/pluginfile.php/4951719/mod_resource/content/1/Problemes_Contingut_1_FOMA.pdf)
 
 ## Funcions bàsiques i funcions definides a trossos
 
@@ -31,5 +30,13 @@ Material vist a classe:
 
 Material complementari:
 
+* LÍMITES - Clase Completa: Explicación desde Cero - El Traductor: [https://www.youtube.com/watch?v=pYVVPqphPS0](https://www.youtube.com/watch?v=pYVVPqphPS0)
 * Asíntotas, Conceptos básicos: [https://www.youtube.com/watch?v=TuRdotVtsYk](https://www.youtube.com/watch?v=TuRdotVtsYk)
 * Asíntotas, ejemplos resueltos: [https://www.youtube.com/watch?v=yIKSt3hVLa0](https://www.youtube.com/watch?v=yIKSt3hVLa0)
+
+## Derivabilitat
+
+Material complementari:
+
+* [Taula de derivades comunes](./1_4_derivabilitat/taula_de_derivades.png)
+* [Derivades i regles de derivació*](https://atenea.upc.edu/pluginfile.php/4580387/mod_folder/content/0/taula%20%20propietats.pdf)
