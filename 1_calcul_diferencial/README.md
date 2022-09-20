@@ -26,6 +26,7 @@ Material complementari:
 Material vist a classe:
 
 * Geogebra dels exemples de dominis i asímptotes: [https://www.geogebra.org/classic/hh7vkfcz](https://www.geogebra.org/classic/hh7vkfcz)
+* GEogebra de l'exercici 1.a: [https://www.geogebra.org/classic/wjahhxdv](https://www.geogebra.org/classic/wjahhxdv)
 * Geogebra dels exercicis 1.d, 2.c, 2.e, 5.a: [https://www.geogebra.org/classic/jzctj3qs](https://www.geogebra.org/classic/jzctj3qs)
 
 Material complementari:
