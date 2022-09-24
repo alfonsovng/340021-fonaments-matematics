@@ -26,8 +26,9 @@ Material complementari:
 Material vist a classe:
 
 * Geogebra dels exemples de dominis i asímptotes: [https://www.geogebra.org/classic/hh7vkfcz](https://www.geogebra.org/classic/hh7vkfcz)
-* GEogebra de l'exercici 1.a: [https://www.geogebra.org/classic/wjahhxdv](https://www.geogebra.org/classic/wjahhxdv)
+* Geogebra de l'exercici 1.a: [https://www.geogebra.org/classic/wjahhxdv](https://www.geogebra.org/classic/wjahhxdv)
 * Geogebra dels exercicis 1.d, 2.c, 2.e, 5.a: [https://www.geogebra.org/classic/jzctj3qs](https://www.geogebra.org/classic/jzctj3qs)
+* Geogebra dels exercicis 1.b, 4.h, 4.i i 5.f: [https://www.geogebra.org/classic/kxafdrgs](https://www.geogebra.org/classic/kxafdrgs)
 
 Material complementari:
 
@@ -35,7 +36,21 @@ Material complementari:
 * Asíntotas, Conceptos básicos: [https://www.youtube.com/watch?v=TuRdotVtsYk](https://www.youtube.com/watch?v=TuRdotVtsYk)
 * Asíntotas, ejemplos resueltos: [https://www.youtube.com/watch?v=yIKSt3hVLa0](https://www.youtube.com/watch?v=yIKSt3hVLa0)
 
+## Continuïtat
+
+Material vist a classe:
+
+* Geogebra dels exemples de continuïtat: [https://www.geogebra.org/classic/rsk73zs4](https://www.geogebra.org/classic/rsk73zs4)
+* Geogebra dels exercicis 3c, 5b, 5c, 5d i 6c: [https://www.geogebra.org/classic/abe5vr23](https://www.geogebra.org/classic/abe5vr23)
+
 ## Derivabilitat
+
+Recursos externs:
+
+* B.22. La regla de L'Hopital. 2. Demostración: [https://www.youtube.com/watch?v=kwK1uEpmsE8](https://www.youtube.com/watch?v=kwK1uEpmsE8)
+* Regla de l'Hopital - Demostración con EJEMPLOS prácticos: [https://www.youtube.com/watch?v=whze02fAyco](https://www.youtube.com/watch?v=whze02fAyco)
+* DERIVADAS - Clase Completa: Explicación Desde Cero | El Traductor: [https://www.youtube.com/watch?v=_6-zwdrqD3U](https://www.youtube.com/watch?v=_6-zwdrqD3U)
+* Definición formal de derivada en polinomio de segundo grado: [https://youtu.be/fm_VEqwBMIA](https://youtu.be/fm_VEqwBMIA)
 
 Material complementari:
 
