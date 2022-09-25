@@ -38,6 +38,10 @@ Material complementari:
 
 ## Continuïtat
 
+Recursos externs:
+
+* límites teorema de acotación: [https://www.youtube.com/watch?v=g4RTlx9cb5Y](https://www.youtube.com/watch?v=g4RTlx9cb5Y)
+
 Material vist a classe:
 
 * Geogebra dels exemples de continuïtat: [https://www.geogebra.org/classic/rsk73zs4](https://www.geogebra.org/classic/rsk73zs4)
@@ -49,7 +53,7 @@ Recursos externs:
 
 * B.22. La regla de L'Hopital. 2. Demostración: [https://www.youtube.com/watch?v=kwK1uEpmsE8](https://www.youtube.com/watch?v=kwK1uEpmsE8)
 * Regla de l'Hopital - Demostración con EJEMPLOS prácticos: [https://www.youtube.com/watch?v=whze02fAyco](https://www.youtube.com/watch?v=whze02fAyco)
-* DERIVADAS - Clase Completa: Explicación Desde Cero | El Traductor: [https://www.youtube.com/watch?v=_6-zwdrqD3U](https://www.youtube.com/watch?v=_6-zwdrqD3U)
+* DERIVADAS - Clase Completa: Explicación Desde Cero - El Traductor: [https://www.youtube.com/watch?v=_6-zwdrqD3U](https://www.youtube.com/watch?v=_6-zwdrqD3U)
 * Definición formal de derivada en polinomio de segundo grado: [https://youtu.be/fm_VEqwBMIA](https://youtu.be/fm_VEqwBMIA)
 
 Material complementari:
