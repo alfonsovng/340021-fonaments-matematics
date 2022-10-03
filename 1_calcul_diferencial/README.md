@@ -38,10 +38,6 @@ Teoria i exercicis:
 
 ## Continuïtat
 
-### Recursos externs:
-
-* límites teorema de acotación: [https://www.youtube.com/watch?v=g4RTlx9cb5Y](https://www.youtube.com/watch?v=g4RTlx9cb5Y)
-
 ### Material vist a classe:
 
 * Geogebra dels exemples de continuïtat: [https://www.geogebra.org/classic/rsk73zs4](https://www.geogebra.org/classic/rsk73zs4)
@@ -53,16 +49,28 @@ Teoria i exercicis:
 * [Resolució exercici 5.c](./1_3_continuitat/5c.jpg)
 * [Resolució exercici 5.d](./1_3_continuitat/5d.jpg)
 
+### Material complementari:
+
+* límites teorema de acotación: [https://www.youtube.com/watch?v=g4RTlx9cb5Y](https://www.youtube.com/watch?v=g4RTlx9cb5Y)
+
 ## Derivabilitat
 
-### Recursos externs:
+### Material vist a classe:
+
+* [Taula de derivades comunes](./1_4_derivabilitat/taula_de_derivades.png)
+* [Derivades i regles de derivació*](https://atenea.upc.edu/pluginfile.php/4580387/mod_folder/content/0/taula%20%20propietats.pdf)
+* [Geogebra de l'interpretació geomètrica de la derivada](https://www.geogebra.org/classic/dhgnmasp)
+* [Geogebra mostrant el creixement i decreixement amb la derivada](https://www.geogebra.org/classic/mwk4jqfz)
+* [Geogebra dels exercicis 1a, 1c, 1f, 1g i 1h](https://www.geogebra.org/classic/vxsq9cd9)
+* [Geogebra dels exercicis 4, 5 i 6](https://www.geogebra.org/classic/chtuuqdd)
+* [Geogebra dels exercicis 7a, 7e i 7f](https://www.geogebra.org/classic/r4fhf8rw)
+* [Geogebra dels exercicis 8c, 8d i 8f](https://www.geogebra.org/classic/vfs3hrtr)
+* [Geogebra dels exercicis 9a, 9c i 9d](https://www.geogebra.org/classic/rkb2vsjw)
+
+### Material complementari:
 
 * B.22. La regla de L'Hopital. 2. Demostración: [https://www.youtube.com/watch?v=kwK1uEpmsE8](https://www.youtube.com/watch?v=kwK1uEpmsE8)
 * Regla de l'Hopital - Demostración con EJEMPLOS prácticos: [https://www.youtube.com/watch?v=whze02fAyco](https://www.youtube.com/watch?v=whze02fAyco)
 * DERIVADAS - Clase Completa: Explicación Desde Cero - El Traductor: [https://www.youtube.com/watch?v=_6-zwdrqD3U](https://www.youtube.com/watch?v=_6-zwdrqD3U)
 * Definición formal de derivada en polinomio de segundo grado: [https://youtu.be/fm_VEqwBMIA](https://youtu.be/fm_VEqwBMIA)
-
-### Material complementari:
-
-* [Taula de derivades comunes](./1_4_derivabilitat/taula_de_derivades.png)
-* [Derivades i regles de derivació*](https://atenea.upc.edu/pluginfile.php/4580387/mod_folder/content/0/taula%20%20propietats.pdf)
+* Como calcular velocidad media, velocidad instantánea: [https://www.youtube.com/watch?v=oFkE4AkVPlE](https://www.youtube.com/watch?v=oFkE4AkVPlE)
