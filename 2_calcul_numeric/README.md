@@ -1,1 +1,33 @@
 # 2. Càlcul Numèric
+
+Teoria i exercicis:
+
+* [Contingut 2. Càlcul numèric i càlcul de primitives*](https://atenea.upc.edu/pluginfile.php/4580390/mod_resource/content/4/Problemes_Contingut_2_FOMA.pdf)
+
+## Errors
+
+### Material vist a classe:
+
+* [Presentació - Errors i representació dels nombres](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%201%20Errors%20i%20representaci%C3%B3%20dels%20nombre.pdf)
+
+## Taylor
+
+### Material vist a classe:
+
+* [Presentació - Aproximació: Polinomi de Taylor i error de truncament](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%202%20Aproximaci%C3%B3%20Polinomi%20de%20Taylor.pdf)
+
+### Material complementari:
+
+* [Vídeo que explica que és el polinomi de Taylor i dedueix d'on surten els coeficients que es fan servir](https://youtu.be/3VwDLy_0L5E)
+
+## Zeros de funcions
+
+### Material vist a classe:
+
+* [Presentació - Zeros de funcions](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%203%20Apunts%20zeros.pdf)
+
+## Integració numèrica
+
+### Material vist a classe:
+
+* [Presentació - Integració Numèrica](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%204%20Apunts%20%20integraci%C3%B3.pdf) 
