@@ -10,6 +10,10 @@ Teoria i exercicis:
 
 * [Presentació - Errors i representació dels nombres*](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%201%20Errors%20i%20representaci%C3%B3%20dels%20nombre.pdf)
 
+#### Material complementari
+
+* [Resum de la teoria d'errors necessària per fer els exercicis](./2_1_errors/resum_errors.jpg)
+
 ## Taylor
 
 #### Material vist a classe:
@@ -30,4 +34,4 @@ Teoria i exercicis:
 
 #### Material vist a classe:
 
-* [Presentació - Integració Numèrica*](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%204%20Apunts%20%20integraci%C3%B3.pdf) 
+* [Presentació - Integració Numèrica*](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%204%20Apunts%20%20integraci%C3%B3.pdf)
