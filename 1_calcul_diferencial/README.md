@@ -2,7 +2,7 @@
 
 Teoria i exercicis:
 
-* [Contingut 1. Càlcul diferencial d’una variable*](https://atenea.upc.edu/pluginfile.php/4951719/mod_resource/content/1/Problemes_Contingut_1_FOMA.pdf)
+* [Contingut 1. Càlcul diferencial d’una variable *](https://atenea.upc.edu/pluginfile.php/4951719/mod_resource/content/1/Problemes_Contingut_1_FOMA.pdf)
 
 ## Funcions bàsiques i funcions definides a trossos
 
@@ -58,7 +58,7 @@ Teoria i exercicis:
 #### Material vist a classe:
 
 * [Taula de derivades comunes](./1_4_derivabilitat/taula_de_derivades.png)
-* [Derivades i regles de derivació*](https://atenea.upc.edu/pluginfile.php/4580387/mod_folder/content/0/taula%20%20propietats.pdf)
+* [Derivades i regles de derivació *](https://atenea.upc.edu/pluginfile.php/4580387/mod_folder/content/0/taula%20%20propietats.pdf)
 * [Geogebra de l'interpretació geomètrica de la derivada](https://www.geogebra.org/classic/dhgnmasp)
 * [Geogebra mostrant el creixement i decreixement amb la derivada](https://www.geogebra.org/classic/mwk4jqfz)
 * [Geogebra dels exercicis 1a, 1c, 1f, 1g i 1h](https://www.geogebra.org/classic/vxsq9cd9)

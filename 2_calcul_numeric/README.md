@@ -2,13 +2,13 @@
 
 Teoria i exercicis:
 
-* [Contingut 2. Càlcul numèric i càlcul de primitives*](https://atenea.upc.edu/pluginfile.php/4580390/mod_resource/content/4/Problemes_Contingut_2_FOMA.pdf)
+* [Contingut 2. Càlcul numèric i càlcul de primitives *](https://atenea.upc.edu/pluginfile.php/4580390/mod_resource/content/4/Problemes_Contingut_2_FOMA.pdf)
 
 ## Errors
 
 #### Material vist a classe:
 
-* [Presentació - Errors i representació dels nombres*](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%201%20Errors%20i%20representaci%C3%B3%20dels%20nombre.pdf)
+* [Presentació - Errors i representació dels nombres *](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%201%20Errors%20i%20representaci%C3%B3%20dels%20nombre.pdf)
 
 #### Material complementari
 
@@ -19,7 +19,7 @@ Teoria i exercicis:
 
 #### Material vist a classe:
 
-* [Presentació - Aproximació: Polinomi de Taylor i error de truncament*](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%202%20Aproximaci%C3%B3%20Polinomi%20de%20Taylor.pdf)
+* [Presentació - Aproximació: Polinomi de Taylor i error de truncament *](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%202%20Aproximaci%C3%B3%20Polinomi%20de%20Taylor.pdf)
 * [Geogebra d'exemple d'aproximació amb Taylor](https://www.geogebra.org/classic/gq7rnqyu)
 * [Geogebra dels exercicis 1 i 2](https://www.geogebra.org/classic/vwwjeshw)
 * [Geogebra de l'exercici 4](https://www.geogebra.org/classic/tj3qradu)
@@ -33,10 +33,10 @@ Teoria i exercicis:
 
 #### Material vist a classe:
 
-* [Presentació - Zeros de funcions*](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%203%20Apunts%20zeros.pdf)
+* [Presentació - Zeros de funcions *](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%203%20Apunts%20zeros.pdf)
 
 ## Integració numèrica
 
 #### Material vist a classe:
 
-* [Presentació - Integració Numèrica*](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%204%20Apunts%20%20integraci%C3%B3.pdf)
+* [Presentació - Integració Numèrica *](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%204%20Apunts%20%20integraci%C3%B3.pdf)
