@@ -13,6 +13,7 @@ Teoria i exercicis:
 #### Material complementari
 
 * [Resum de la teoria d'errors necessària per fer els exercicis](./2_1_errors/resum_errors.jpg)
+* [Resolució dels exercicis 4 i 5](./2_1_errors/exercicis_4_i_5.jpg)
 
 ## Taylor
 
