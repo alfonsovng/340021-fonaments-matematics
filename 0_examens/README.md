@@ -10,5 +10,5 @@
 ## Exercicis per preparar el parcial A2:
 
 * Exercici 1 de l'examen de 21/06/2022: [enunciat i solució *](https://upcommons.upc.edu/bitstream/handle/2117/370602/FOMA_A3-A4-SoluciO.pdf)
-* Exercicis 1 i 2 de l'examen de 07/04/2022: [enunciat *](https://upcommons.upc.edu/bitstream/handle/2117/366793/A2%20parcial%20FOMA.pdf) i [solucions *](https://upcommons.upc.edu/bitstream/handle/2117/366793/Solucio_A2.pdf)
+* Exercicis 1 i 2 de l'examen de 07/04/2022: [enunciats *](https://upcommons.upc.edu/bitstream/handle/2117/366793/A2%20parcial%20FOMA.pdf) i [solucions *](https://upcommons.upc.edu/bitstream/handle/2117/366793/Solucio_A2.pdf)
 * Exercicis 1 i 4 de l'examen de 18/01/2022: [enunciats i solucions *](https://upcommons.upc.edu/bitstream/handle/2117/361756/A3iA4ambsolucio.pdf)
