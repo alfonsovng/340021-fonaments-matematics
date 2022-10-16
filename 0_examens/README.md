@@ -1,11 +1,15 @@
 # 0. Exàmens
 
-## Exercici escrit 1 del 13/10/2022
+## Exercici escrit 1 del 13/10/2022 (grup N10)
 
 * [Geogebra de l'exercici escrit 1 del 13/10/2022](https://www.geogebra.org/classic/bzbj8dkd)
 * [Resolució del model A](./1_exercici_escrit_1/model_a.jpg)
 * [Resolució del model B](./1_exercici_escrit_1/model_b.jpg)
 * [Resolució del model C](./1_exercici_escrit_1/model_c.jpg)
+
+## Exercici escrit 1 del 14/10/2022 (grup N14)
+
+* [Enunciat i resolució *](https://atenea.upc.edu/mod/resource/view.php?id=3751767)
 
 ## Exercicis per preparar el parcial A2:
 
