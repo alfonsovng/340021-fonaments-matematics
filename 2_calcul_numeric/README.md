@@ -34,6 +34,7 @@ Teoria i exercicis:
 #### Material vist a classe:
 
 * [Presentació - Zeros de funcions *](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%203%20Apunts%20zeros.pdf)
+* [Fitxer biseccio.m *](https://atenea.upc.edu/mod/resource/view.php?id=3760177)
 
 ## Integració numèrica
 
