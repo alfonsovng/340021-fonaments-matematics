@@ -66,3 +66,9 @@ hold off   % final de definició de la gràfica
 #### Material vist a classe:
 
 * [Presentació - Integració Numèrica *](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%204%20Apunts%20%20integraci%C3%B3.pdf)
+
+## Primitives
+
+#### Material complementari:
+
+* [Geobrebra de l'interpretació de l'integral definida](https://www.geogebra.org/classic/paxqtgyj)
