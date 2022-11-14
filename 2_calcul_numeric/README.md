@@ -35,6 +35,31 @@ Teoria i exercicis:
 
 * [Presentació - Zeros de funcions *](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%203%20Apunts%20zeros.pdf)
 * [Fitxer biseccio.m *](https://atenea.upc.edu/mod/resource/view.php?id=3760177)
+* Com derivar amb matlab:
+
+``` matlab
+% defineixo la funció
+f = @(x) sin(x) - x.^2;
+
+% es mostrarà per pantalla la derivada, però per
+% fer-la servir com a funció, l'heu de copiar 
+% posan't @(x) davant
+df = diff(sym(f),1) % derivada de f
+
+% podeu fer la 2a derivada, o la 3a..
+df2 = diff(sym(f),2) % 2a derivada
+df3 = diff(sym(f),3) % 3a derivada
+```
+* Com representar una gràfica amb matlab:
+
+```matlab
+fplot(g,[a b],'-r','LineWidth',2) % representa la funció g en linia vermella i amplada 2
+grid on    % afegeix una malla
+grid minor % afegeix quadrícula secundària
+hold on    % permet afegir una altre funció a la mateixa gràfica
+fplot(h,[a b],':b','LineWidth',3) % representa la funció h en punts blaus i amplada 3
+hold off   % final de definició de la gràfica
+```
 
 ## Integració numèrica
 
