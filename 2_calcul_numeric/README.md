@@ -72,3 +72,4 @@ hold off   % final de definició de la gràfica
 #### Material complementari:
 
 * [Geobrebra de l'interpretació de l'integral definida](https://www.geogebra.org/classic/paxqtgyj)
+* [Primitiva de x*arctan(x), per parts](https://youtu.be/iOPCbEOUfSE)
