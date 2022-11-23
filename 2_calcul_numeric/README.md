@@ -10,7 +10,7 @@ Teoria i exercicis:
 
 * [Presentació - Errors i representació dels nombres *](https://atenea.upc.edu/pluginfile.php/4580391/mod_folder/content/0/M%C3%B2dul%201%20Errors%20i%20representaci%C3%B3%20dels%20nombre.pdf)
 
-#### Material complementari
+#### Material complementari:
 
 * [Resum de la teoria d'errors necessària per fer els exercicis](./2_1_errors/resum_errors.jpg)
 * [Resolució dels exercicis 4 i 5](./2_1_errors/exercicis_4_i_5.jpg)
