@@ -9,5 +9,9 @@ b = [ 0; 0];
 A_b = [A b];
 rank(A)
 rank(A_b) % innecessari, és igual a rank(A) pq és homogeni
-patro_solucio = null(A, "rational")
-rats(patro_solucio)
+
+% espai vectorial que defineix la solució del sistema homogeni
+solucio = null(A, "rational")
+
+% solució en format maco, amb fraccions enteres
+rats(solucio)
