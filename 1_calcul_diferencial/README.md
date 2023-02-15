@@ -8,6 +8,7 @@ Teoria i exercicis:
 
 #### Material vist a classe:
 
+* Geogebra de funcions bàsiques: https://www.geogebra.org/classic/tjuagyaj
 * Geogebra exercici 1.2.8: https://www.geogebra.org/classic/fq6ntptp
 * Geogebra exercici 1.2.9: https://www.geogebra.org/classic/dpqtv5j6
 * Geogebra exercici 1.2.10: https://www.geogebra.org/classic/zaqr9u45
