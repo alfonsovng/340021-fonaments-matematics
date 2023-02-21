@@ -13,6 +13,7 @@ Teoria i exercicis:
 * Geogebra exercici 1.2.8: https://www.geogebra.org/classic/fq6ntptp
 * Geogebra exercici 1.2.9: https://www.geogebra.org/classic/dpqtv5j6
 * Geogebra exercici 1.2.10: https://www.geogebra.org/classic/zaqr9u45
+* [Exemple pasar de troços a Heaviside i viceversa](./1_2_heaviside/exemple_heaviside.jpg)
 * Exemples funció Heaviside (1): https://www.geogebra.org/classic/gbctjcpw
 * Exemples funció Heaviside (2): https://www.geogebra.org/classic/vbvmuxgt
 * Exemples funció Heaviside (3): https://www.geogebra.org/classic/qtwx92uc
