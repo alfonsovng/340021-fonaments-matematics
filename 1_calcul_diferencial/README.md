@@ -18,6 +18,7 @@ Teoria i exercicis:
 * Exemples funció Heaviside (2): https://www.geogebra.org/classic/vbvmuxgt
 * Exemples funció Heaviside (3): https://www.geogebra.org/classic/qtwx92ucç
 * Exercicis 2b i 3d de Heaviside: https://www.geogebra.org/classic/b86grkbm
+* Exemples de valor absolut: https://www.geogebra.org/classic/rus4csvt
 
 #### Material complementari:
 
