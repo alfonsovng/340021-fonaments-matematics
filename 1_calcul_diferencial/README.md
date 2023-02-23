@@ -16,7 +16,8 @@ Teoria i exercicis:
 * [Exemple pasar de troços a Heaviside i viceversa](./1_2_heaviside/exemple_heaviside.jpg)
 * Exemples funció Heaviside (1): https://www.geogebra.org/classic/gbctjcpw
 * Exemples funció Heaviside (2): https://www.geogebra.org/classic/vbvmuxgt
-* Exemples funció Heaviside (3): https://www.geogebra.org/classic/qtwx92uc
+* Exemples funció Heaviside (3): https://www.geogebra.org/classic/qtwx92ucç
+* Exercicis 2b i 3d de Heaviside: https://www.geogebra.org/classic/b86grkbm
 
 #### Material complementari:
 
