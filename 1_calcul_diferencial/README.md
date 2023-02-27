@@ -25,3 +25,18 @@ Teoria i exercicis:
 * ¿Qué es el RADIÁN? - El Traductor: https://www.youtube.com/watch?v=PKeUzxt-C_k
 * ¿Qué es el Número de Euler? Y la ecuación más hermosa del mundo - CuriosaMente 287: https://www.youtube.com/watch?v=B0Rc7lL6QUg
 * ¿Qué es la Función LOGARITMO? - El Traductor: https://www.youtube.com/watch?v=caP5HVQNn7k
+
+## Dominis i asímptotes
+
+#### Material vist a classe:
+
+* Geogebra dels exemples de dominis i asímptotes: https://www.geogebra.org/classic/hh7vkfcz
+* Geogebra de l'exercici 1.a: https://www.geogebra.org/classic/wjahhxdv
+* Geogebra dels exercicis 1.d, 2.c, 2.e, 5.a: https://www.geogebra.org/classic/jzctj3qs
+* Geogebra dels exercicis 1.b, 4.h, 4.i i 5.f: https://www.geogebra.org/classic/kxafdrgs
+
+### Material complementari:
+
+* LÍMITES - Clase Completa: Explicación desde Cero - El Traductor: https://www.youtube.com/watch?v=pYVVPqphPS0
+* Asíntotas, Conceptos básicos: https://www.youtube.com/watch?v=TuRdotVtsYk
+* Asíntotas, ejemplos resueltos: https://www.youtube.com/watch?v=yIKSt3hVLa0
