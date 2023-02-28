@@ -37,6 +37,7 @@ Teoria i exercicis:
 
 ### Material complementari:
 
+* [Taula de límits](./1_3_limits/calculus-derivatives-limits.pdf)
 * LÍMITES - Clase Completa: Explicación desde Cero - El Traductor: https://www.youtube.com/watch?v=pYVVPqphPS0
 * Asíntotas, Conceptos básicos: https://www.youtube.com/watch?v=TuRdotVtsYk
 * Asíntotas, ejemplos resueltos: https://www.youtube.com/watch?v=yIKSt3hVLa0
