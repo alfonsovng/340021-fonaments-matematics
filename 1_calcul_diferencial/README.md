@@ -13,7 +13,7 @@ Teoria i exercicis:
 * Geogebra exercici 1.2.8: https://www.geogebra.org/classic/fq6ntptp
 * Geogebra exercici 1.2.9: https://www.geogebra.org/classic/dpqtv5j6
 * Geogebra exercici 1.2.10: https://www.geogebra.org/classic/zaqr9u45
-* [Exemple pasar de troços a Heaviside i viceversa](./1_2_heaviside/exemple_heaviside.jpg)
+* [Exemple pasar de troços a Heaviside i viceversa *](https://jamboard.google.com/d/1Co1kj5ZzFddaEo2JHZyKn-APcoZqSoFVDn2hjLJNA1E/edit?usp=sharing)
 * Exemples funció Heaviside (1): https://www.geogebra.org/classic/gbctjcpw
 * Exemples funció Heaviside (2): https://www.geogebra.org/classic/vbvmuxgt
 * Exemples funció Heaviside (3): https://www.geogebra.org/classic/qtwx92ucç
@@ -31,6 +31,7 @@ Teoria i exercicis:
 #### Material vist a classe:
 
 * Geogebra dels exemples de dominis i asímptotes: https://www.geogebra.org/classic/hh7vkfcz
+* [Límits habituals *](https://jamboard.google.com/d/1GoYeROkuac2WnwTL2xee-C7awlC1RPMB5odPV-MywOg/edit?usp=sharing)
 * Geogebra de l'exercici 1.a: https://www.geogebra.org/classic/wjahhxdv
 * Geogebra dels exercicis 1.d, 2.c, 2.e, 5.a: https://www.geogebra.org/classic/jzctj3qs
 * Geogebra dels exercicis 1.b, 4.h, 4.i i 5.f: https://www.geogebra.org/classic/kxafdrgs
