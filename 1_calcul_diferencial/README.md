@@ -35,6 +35,7 @@ Teoria i exercicis:
 * Geogebra de l'exercici 1.a: https://www.geogebra.org/classic/wjahhxdv
 * Geogebra dels exercicis 1.d, 2.c, 2.e, 5.a: https://www.geogebra.org/classic/jzctj3qs
 * Geogebra dels exercicis 1.b, 4.h, 4.i i 5.f: https://www.geogebra.org/classic/kxafdrgs
+* Geogebra dels exercicis 5e i 5c: https://www.geogebra.org/classic/gq37uyq6
 
 ### Material complementari:
 
