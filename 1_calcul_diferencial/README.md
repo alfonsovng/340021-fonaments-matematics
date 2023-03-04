@@ -13,7 +13,7 @@ Teoria i exercicis:
 * Geogebra exercici 1.2.8: https://www.geogebra.org/classic/fq6ntptp
 * Geogebra exercici 1.2.9: https://www.geogebra.org/classic/dpqtv5j6
 * Geogebra exercici 1.2.10: https://www.geogebra.org/classic/zaqr9u45
-* [Exemple pasar de troços a Heaviside i viceversa *](https://jamboard.google.com/d/1Co1kj5ZzFddaEo2JHZyKn-APcoZqSoFVDn2hjLJNA1E/edit?usp=sharing)
+* [Exemple pasar de troços a Heaviside i viceversa](./annexos/exemple-heaviside.pdf)
 * Exemples funció Heaviside (1): https://www.geogebra.org/classic/gbctjcpw
 * Exemples funció Heaviside (2): https://www.geogebra.org/classic/vbvmuxgt
 * Exemples funció Heaviside (3): https://www.geogebra.org/classic/qtwx92ucç
@@ -31,7 +31,7 @@ Teoria i exercicis:
 #### Material vist a classe:
 
 * Geogebra dels exemples de dominis i asímptotes: https://www.geogebra.org/classic/hh7vkfcz
-* [Límits habituals *](https://jamboard.google.com/d/1GoYeROkuac2WnwTL2xee-C7awlC1RPMB5odPV-MywOg/edit?usp=sharing)
+* [Límits habituals](./annexos/limits-habituals.pdf)
 * Geogebra de l'exercici 1.a: https://www.geogebra.org/classic/wjahhxdv
 * Geogebra dels exercicis 1.d, 2.c, 2.e, 5.a: https://www.geogebra.org/classic/jzctj3qs
 * Geogebra dels exercicis 1.b, 4.h, 4.i i 5.f: https://www.geogebra.org/classic/kxafdrgs
@@ -39,7 +39,31 @@ Teoria i exercicis:
 
 ### Material complementari:
 
-* [Taula de límits](./1_3_limits/calculus-derivatives-limits.pdf)
+* [Taula de límits](./annexos/taula-de-limits.pdf)
 * LÍMITES - Clase Completa: Explicación desde Cero - El Traductor: https://www.youtube.com/watch?v=pYVVPqphPS0
 * Asíntotas, Conceptos básicos: https://www.youtube.com/watch?v=TuRdotVtsYk
 * Asíntotas, ejemplos resueltos: https://www.youtube.com/watch?v=yIKSt3hVLa0
+
+## Continuïtat
+
+#### Material vist a classe:
+
+* Geogebra dels exemples de continuïtat: https://www.geogebra.org/classic/rsk73zs4
+* Geogebra dels exercicis 3c, 5b, 5c, 5d i 6c: https://www.geogebra.org/classic/abe5vr23
+
+#### Material complementari:
+* Teorema de acotación para límites: https://www.youtube.com/watch?v=g4RTlx9cb5Y
+
+## Derivabilitat
+
+#### Material vist a classe:
+
+* [Taula de derivades comunes](./annexos/taula-de-derivades.pdf)
+* [Derivades i regles de derivació *](https://atenea.upc.edu/pluginfile.php/5345117/mod_folder/content/0/taula%20%20propietats.pdf)
+
+#### Material complementari:
+
+* B.22. La regla de L'Hopital. 2. Demostración: https://www.youtube.com/watch?v=kwK1uEpmsE8
+* Regla de l'Hopital - Demostración con EJEMPLOS prácticos: https://www.youtube.com/watch?v=whze02fAyco
+* DERIVADAS - Clase Completa: Explicación Desde Cero - El Traductor: https://www.youtube.com/watch?v=_6-zwdrqD3U
+* Definición formal de derivada en polinomio de segundo grado: https://youtu.be/fm_VEqwBMIA
