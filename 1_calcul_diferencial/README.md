@@ -39,7 +39,7 @@ Teoria i exercicis:
 
 ### Material complementari:
 
-* [Taula de límits](./annexos/taula-de-limits.pdf)
+* [Taula de límits](./annexos/taula-limits.pdf)
 * LÍMITES - Clase Completa: Explicación desde Cero - El Traductor: https://www.youtube.com/watch?v=pYVVPqphPS0
 * Asíntotas, Conceptos básicos: https://www.youtube.com/watch?v=TuRdotVtsYk
 * Asíntotas, ejemplos resueltos: https://www.youtube.com/watch?v=yIKSt3hVLa0
@@ -52,14 +52,16 @@ Teoria i exercicis:
 * Geogebra dels exercicis 3c, 5b, 5c, 5d i 6c: https://www.geogebra.org/classic/abe5vr23
 
 #### Material complementari:
+
 * Teorema de acotación para límites: https://www.youtube.com/watch?v=g4RTlx9cb5Y
 
 ## Derivabilitat
 
 #### Material vist a classe:
 
-* [Taula de derivades comunes](./annexos/taula-de-derivades.pdf)
+* [Taula de derivades comunes](./annexos/taula-derivades.pdf)
 * [Derivades i regles de derivació *](https://atenea.upc.edu/pluginfile.php/5345117/mod_folder/content/0/taula%20%20propietats.pdf)
+* Geogebra de l'interpretació geomètrica de la derivada: https://www.geogebra.org/classic/dhgnmasp
 
 #### Material complementari:
 
