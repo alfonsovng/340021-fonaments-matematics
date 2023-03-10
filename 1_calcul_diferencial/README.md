@@ -60,6 +60,7 @@ Teoria i exercicis:
 #### Material vist a classe:
 
 * [Regla de l'Hopital](./annexos/regla-hopital.pdf)
+* [Exercicis 3h i 3i de l'Hopital](./annexos/exercicis-3h-3i-hopital.pdf)
 * [Taula de derivades comunes](./annexos/taula-derivades.pdf)
 * [Derivades i regles de derivació *](https://atenea.upc.edu/pluginfile.php/5345117/mod_folder/content/0/taula%20%20propietats.pdf)
 * Geogebra de l'interpretació geomètrica de la derivada: https://www.geogebra.org/classic/dhgnmasp
