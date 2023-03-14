@@ -64,6 +64,7 @@ Teoria i exercicis:
 * [Taula de derivades comunes](./annexos/taula-derivades.pdf)
 * [Derivades i regles de derivació *](https://atenea.upc.edu/pluginfile.php/5345117/mod_folder/content/0/taula%20%20propietats.pdf)
 * Geogebra de l'interpretació geomètrica de la derivada: https://www.geogebra.org/classic/dhgnmasp
+* Geogebra de la derivada de x^2 - 2x - 3: https://www.geogebra.org/classic/skv5ht5q
 * Geogebra dels exercicis 1a, 1c, 1f, 1g i 1h: https://www.geogebra.org/classic/vxsq9cd9
 * Geogebra dels exercicis 4, 5 i 6: https://www.geogebra.org/classic/chtuuqdd
 * Geogebra dels exercicis 7a, 7e i 7f: https://www.geogebra.org/classic/r4fhf8rw
