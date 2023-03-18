@@ -81,3 +81,9 @@ Teoria i exercicis:
 * [1, 2 & 3 de FONAMENTS MATEMÀTICS (Examen 1r quadrimestre): Activitat A2 : Càlcul diferencial *](https://upcommons.upc.edu/bitstream/handle/2117/361754/A2_FOMA-21-22Q1_amb_sol.pdf?sequence=1)
 * [1 de FONAMENTS MATEMÀTICS (Examen 1r quadrimestre): Activitats A3 i A4 *](https://upcommons.upc.edu/bitstream/handle/2117/361756/A3iA4ambsolucio.pdf?sequence=1)
 * Como calcular velocidad media, velocidad instantánea: https://www.youtube.com/watch?v=oFkE4AkVPlE
+
+## Integració
+
+#### Material vist a classe:
+
+* Geobrebra de l'interpretació de l'integral definida: https://www.geogebra.org/classic/paxqtgyj
