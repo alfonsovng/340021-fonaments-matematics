@@ -70,6 +70,7 @@ Teoria i exercicis:
 * Geogebra dels exercicis 7a, 7d, 7e i 7f: https://www.geogebra.org/classic/ezvv94sy
 * Geogebra dels exercicis 8c, 8d i 8f: https://www.geogebra.org/classic/vfs3hrtr
 * Geogebra dels exercicis 9a, 9c i 9d: https://www.geogebra.org/classic/rkb2vsjw
+* [Exercici 9a de derivabilitat](./annexos/exercici-9a-derivabilitat.pdf)
 
 #### Material complementari:
 
