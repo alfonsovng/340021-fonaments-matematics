@@ -87,3 +87,7 @@ Teoria i exercicis:
 #### Material vist a classe:
 
 * Geobrebra de l'interpretació de l'integral definida: https://www.geogebra.org/classic/paxqtgyj
+
+#### Material complementari:
+
+* Primitiva de x*arctan(x), per parts: https://www.youtube.com/watch?v=iOPCbEOUfSE
