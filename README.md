@@ -8,4 +8,5 @@
 
 ## Contingut
 
-[1\. Càlcul diferencial](./1_calcul_diferencial/README.md)
+* [0\. Exàmens](./0_examens/README.md)
+* [1\. Càlcul diferencial](./1_calcul_diferencial/README.md)
