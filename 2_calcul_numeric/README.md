@@ -9,6 +9,7 @@ Teoria i exercicis:
 #### Material vist a classe:
 
 * [Presentació - Errors i representació dels nombres *](https://atenea.upc.edu/pluginfile.php/5345120/mod_folder/content/0/M%C3%B2dul%201%20Errors%20i%20representaci%C3%B3%20dels%20nombre.pdf?forcedownload=1)
+* [Exercicis 4 i 5 d'errors](./annexos/exercicis_4_i_5.jpg)
 
 #### Material complementari:
 
