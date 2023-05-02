@@ -36,10 +36,12 @@ Teoria i exercicis:
 * [Presentació - Zeros de funcions *](https://atenea.upc.edu/pluginfile.php/5345120/mod_folder/content/0/M%C3%B2dul%203%20Apunts%20zeros.pdf?forcedownload=1)
 * Com representar una gràfica amb matlab:
 ```matlab
-fplot(g,[a b],'-r','LineWidth',2) % representa la funció g en linia vermella i amplada 2
+fplot(g, [a b],'-r','LineWidth',2) % representa la funció g en linia vermella i amplada 2
 grid on    % afegeix una malla
 grid minor % afegeix quadrícula secundària
-hold on    % permet afegir una altre funció a la mateixa gràfica
-fplot(h,[a b],':b','LineWidth',3) % representa la funció h en punts blaus i amplada 3
-hold off   % final de definició de la gràfica
 ```
+* [Exemple de bisecció vist a classe](./annexos/exemple_biseccio.m)
+
+#### Material complementari:
+
+* Petit resum de la classe d'avui 02/05/2023 sobre matlab i el mètode de la bisecció: https://youtu.be/IinN14vmQLk
