@@ -46,3 +46,14 @@ grid minor % afegeix quadrícula secundària
 #### Material complementari:
 
 * Petit resum de la classe d'avui 02/05/2023 sobre matlab i el mètode de la bisecció: https://youtu.be/IinN14vmQLk
+
+## Integració numèrica
+
+#### Material vist a classe:
+
+* [Presentació - Integració Numèrica *](https://atenea.upc.edu/pluginfile.php/5345120/mod_folder/content/0/M%C3%B2dul%204%20Apunts%20%20integraci%C3%B3.pdf?forcedownload=1)
+
+#### Material complementari:
+
+* [Classe FOMA 04/05/2023, 1a PART](https://youtu.be/SUrMggc6qz4)
+* [Classe FOMA 04/05/2023, 2a PART](https://youtu.be/d72HjQwXVHY)
