@@ -60,3 +60,5 @@ grid minor % afegeix quadrícula secundària
 
 * [Classe FOMA 04/05/2023, 1a PART](https://youtu.be/SUrMggc6qz4)
 * [Classe FOMA 04/05/2023, 2a PART](https://youtu.be/d72HjQwXVHY)
+* [Classe FOMA 09/05/2023, 1a PART](https://youtu.be/dLehTxH-qx4)
+* [Classe FOMA 09/05/2023, 2a PART](https://youtu.be/rjVCnQj0dyM)
