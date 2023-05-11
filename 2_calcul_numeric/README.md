@@ -52,6 +52,9 @@ grid minor % afegeix quadrícula secundària
 #### Material vist a classe:
 
 * [Presentació - Integració Numèrica *](https://atenea.upc.edu/pluginfile.php/5345120/mod_folder/content/0/M%C3%B2dul%204%20Apunts%20%20integraci%C3%B3.pdf?forcedownload=1)
+* [GUIA: Càlcul numèric de zeros de funcions. Mètodes intervalars *](https://atenea.upc.edu/pluginfile.php/5403721/mod_resource/content/8/Zeros_Biseccio.html)
+* [GUIA: Càlcul numèric de zeros de funcions. Mètodes iteratius *](https://atenea.upc.edu/pluginfile.php/5403728/mod_resource/content/7/Zeros_Iteratius.html)
+* [GUIA: Integració numèrica *](https://atenea.upc.edu/pluginfile.php/5403735/mod_resource/content/14/Integracio_numeric_nou.html)
 
 #### Material complementari:
 
