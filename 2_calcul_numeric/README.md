@@ -55,6 +55,7 @@ grid minor % afegeix quadrícula secundària
 * [GUIA: Càlcul numèric de zeros de funcions. Mètodes intervalars *](https://atenea.upc.edu/pluginfile.php/5403721/mod_resource/content/8/Zeros_Biseccio.html)
 * [GUIA: Càlcul numèric de zeros de funcions. Mètodes iteratius *](https://atenea.upc.edu/pluginfile.php/5403728/mod_resource/content/7/Zeros_Iteratius.html)
 * [GUIA: Integració numèrica *](https://atenea.upc.edu/pluginfile.php/5403735/mod_resource/content/14/Integracio_numeric_nou.html)
+* [Pràctica per l'examen amb email](https://youtu.be/qVlMiMbCv70)
 
 #### Material complementari:
 
@@ -62,3 +63,4 @@ grid minor % afegeix quadrícula secundària
 * [Classe FOMA 04/05/2023, 2a PART](https://youtu.be/d72HjQwXVHY)
 * [Classe FOMA 09/05/2023, 1a PART](https://youtu.be/dLehTxH-qx4)
 * [Classe FOMA 09/05/2023, 2a PART](https://youtu.be/rjVCnQj0dyM)
+* [Classe FOMA 11/05/2023](https://youtu.be/LI-uwSP2fNE)
