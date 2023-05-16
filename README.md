@@ -11,3 +11,4 @@
 * [0\. Exàmens](./0_examens/README.md)
 * [1\. Càlcul diferencial](./1_calcul_diferencial/README.md)
 * [2\. Càlcul numèric](./2_calcul_numeric/README.md)
+* [3.\ Àlgebra lineal](./3_algebra_lineal/README.md)
