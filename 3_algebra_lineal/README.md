@@ -31,8 +31,8 @@ Teoria i exercicis:
 * [MATLAB: exercicis 7 i 8](./annexos/vectors_exercicis_7_i_8.m)
 * [MATLAB: base d'un sistema homogeni](./annexos/vectors_exemple_sistema_homogeni.m)
 
-## Sistemes Lineals
+## Aplicacions Lineals
 
 #### Material vist a classe:
 
-* [Presentació Sistemes Lineals *](https://atenea.upc.edu/pluginfile.php/5433268/mod_folder/content/0/A%CC%80lgebra%20lineal.%20Sistemes%20lineals.pdf?forcedownload=1)
+* [Presentació Aplicacions Lineals *](https://atenea.upc.edu/pluginfile.php/5433268/mod_folder/content/0/%C3%80lgebra%20lineal.%20Aplicacions%20lineals.pdf?forcedownload=1)
