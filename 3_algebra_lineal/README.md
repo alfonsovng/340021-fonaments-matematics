@@ -14,11 +14,11 @@ Teoria i exercicis:
 * [Presentació Sistemes lineals *](https://atenea.upc.edu/pluginfile.php/5433268/mod_folder/content/0/A%CC%80lgebra%20lineal.%20Sistemes%20lineals.pdf?forcedownload=1)
 * [Presentació Mètodes Gauss i Cramer *](https://atenea.upc.edu/pluginfile.php/5433268/mod_folder/content/0/Apunts_m%C3%A8tode_Gauss_i_Cramer.pdf?forcedownload=1)
 * [MATLAB: operacions amb matrius](./annexos/matrius.m)
-* [MATLAB: sistemes d'equacions 1](./annexos/sistemes_equacions_1.m)
-* [MATLAB: sistemes d'equacions 2](./annexos/sistemes_equacions_2.m)
-* [MATLAB: sistemes d'equacions 3](./annexos/sistemes_equacions_3.m)
-* [MATLAB: sistemes d'equacions 4](./annexos/sistemes_equacions_4.m)
-* [MATLAB: sistemes d'equacions 5](./annexos/sistemes_equacions_5.m)
+* [MATLAB: sistemes d'equacions - exemple 1](./annexos/sistemes_equacions_exemple_1.m)
+* [MATLAB: sistemes d'equacions - exemple 2](./annexos/sistemes_equacions_exemple_2.m)
+* [MATLAB: sistemes d'equacions - exemple 3](./annexos/sistemes_equacions_exemple_3.m)
+* [MATLAB: sistemes d'equacions - exercici 2a](./annexos/sistemes_equacions_exercici_2a.m)
+* [MATLAB: sistemes d'equacions - exercici 2c](./annexos/sistemes_equacions_exercici_2c.m)
 
 ## Espais Vectorials
 
