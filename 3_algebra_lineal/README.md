@@ -18,8 +18,11 @@ Teoria i exercicis:
 * [MATLAB: sistemes d'equacions - exemple 1](./annexos/sistemes_equacions_exemple_1.m)
 * [MATLAB: sistemes d'equacions - exemple 2](./annexos/sistemes_equacions_exemple_2.m)
 * [MATLAB: sistemes d'equacions - exemple 3 - HOMOGENI](./annexos/sistemes_equacions_exemple_3_homogeni.m)
+* [MATLAB: sistemes d'equacions - exercici 1b](./annexos/sistemes_equacions_exercici_1b.m)
 * [MATLAB: sistemes d'equacions - exercici 2a](./annexos/sistemes_equacions_exercici_2a.m)
+* [MATLAB: sistemes d'equacions - exercici 2b](./annexos/sistemes_equacions_exercici_2b.m)
 * [MATLAB: sistemes d'equacions - exercici 2c](./annexos/sistemes_equacions_exercici_2c.m)
+* [MATLAB: sistemes d'equacions - exercici 3b](./annexos/sistemes_equacions_exercici_3b.m)
 
 ## Espais Vectorials
 
