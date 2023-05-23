@@ -17,7 +17,7 @@ Teoria i exercicis:
 * [MATLAB: calcul de rangs de matrius](./annexos/matrius_rang.m)
 * [MATLAB: sistemes d'equacions - exemple 1](./annexos/sistemes_equacions_exemple_1.m)
 * [MATLAB: sistemes d'equacions - exemple 2](./annexos/sistemes_equacions_exemple_2.m)
-* [MATLAB: sistemes d'equacions - exemple 3](./annexos/sistemes_equacions_exemple_3.m)
+* [MATLAB: sistemes d'equacions - exemple 3 - HOMOGENI](./annexos/sistemes_equacions_exemple_3_homogeni.m)
 * [MATLAB: sistemes d'equacions - exercici 2a](./annexos/sistemes_equacions_exercici_2a.m)
 * [MATLAB: sistemes d'equacions - exercici 2c](./annexos/sistemes_equacions_exercici_2c.m)
 
