@@ -5,6 +5,10 @@
 * Funció a geogebra: https://www.geogebra.org/classic/jnftwz3y
 * [Resolució de l'exercici a classe](./annexos/resolucio-exercici-a-classe-23-03-2023.pdf)
 
+## Exercici a classe 30/05/2023 
+
+* [Resolució de l'exercici a classe](./annexos/resolucio-exercici-a-classe-30-05-2023.pdf)
+
 ## Exàmens de FOMA d'altres cursos, amb solucions
 
 * [PART 1: Activitats A3 i A4 de Fonaments Matemàtics. EPSEVG. Curs 2022-23Q1 *](https://upcommons.upc.edu/bitstream/handle/2117/381101/FOMA_A3-A4_solucio.pdf?sequence=1)
